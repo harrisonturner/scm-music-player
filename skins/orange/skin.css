@@ -1,4 +1,4 @@
-#player,#player a{ color:#ff9900; }
+#player,#player a{ color:##ffd39e; }
 #player{ background:url(sizerAndVol.png); background-position:bottom; }
 #player .mainImage{ background:url(main.png); }
 
@@ -15,9 +15,9 @@
 #player #list{ right:0px; }
 
 #player #seeker{ right:320px; }
-#player #seekerBase{ border-color:#fff2e1;  }
-#player #seekerBuffered{ background-color:#fff2e1; }
-#player #seekerSliderBase{ background-color:#ff9900; }
+#player #seekerBase{ border-color:#ffd39e;  }
+#player #seekerBuffered{ background-color:#ffd39e; }
+#player #seekerSliderBase{ background-color:#ffd39e; }
 
 #player #volume{ width:65px; right:39px; }
 #player #volumeSlider{ width:8px; background:url(sizerAndVol.png); }
